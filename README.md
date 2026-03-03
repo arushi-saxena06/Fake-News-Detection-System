@@ -33,7 +33,8 @@ Accuracy Achieved: 98.93%
 
 🚀 Deployment
 
-Live App: (Paste your Streamlit link here after deployment)
+Live App: https://fake-news-detection-ml-2czvmw7pdqnky2kepzznpq.streamlit.app/<img width="1190" height="74" alt="image" src="https://github.com/user-attachments/assets/93b05be2-17ff-45ec-93e2-163f55193a69" />
+
 
 📂 Files in Repository
 
